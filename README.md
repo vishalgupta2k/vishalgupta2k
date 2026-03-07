@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,0b0b1a,7C3AED,00FFFF,FFFFFF&height=300&section=header&text=Vishal%20Gupta&fontSize=90&animation=shimmer&fontAlignY=45&desc=Software%20Engineer%20%40%20Epiq&descSize=24&descAlignY=65&stroke=FFFFFF&strokeWidth=1" alt="Glassmorphism Premium Header" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,0b0b1a,7C3AED,00FFFF,FFFFFF&height=180&section=header&text=Vishal%20Gupta&fontSize=70&animation=shimmer&fontAlignY=45&desc=Software%20Engineer%20@%20Epiq&descSize=20&descAlignY=70&stroke=FFFFFF&strokeWidth=1" alt="Liquid-Neon Glass Header" />
 </p>
 
 <div align="center">

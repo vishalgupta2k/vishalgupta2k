@@ -25,11 +25,11 @@
 
 <p align="center">
   <!-- Ultra-Stable High-Bandwidth Giphy Link -->
-  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Dynamic Coding Animation" width="400" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenp5Z2NxazRoOTIyNWUyeGQ0YnI4ZXAyZHd4aDc5eThtMWo2bG15eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Dynamic Coding Animation" width="400" />
 </p>
 
 <p align="center">
-  <b>🚀 Software Engineer @ Epiq Systems | ⚡ AI/ML Enthusiast | 🎓 B.Tech CSE (8.43 CGPA)</b>
+  <b>🚀 Software Engineer @ Epiq Systems | ⚡ Performance & AI Enthusiast | 🎓 B.Tech CSE (8.43 CGPA)</b>
 </p>
 
 <div align="center">
@@ -52,7 +52,6 @@
 <h3 align="center">🛠️ Tech Arsenal</h3>
 
 <p align="center">
-  <!-- Dynamic Animated Icons for Top Skills -->
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="45" alt="JS">
   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="45" alt="React">
   <img src="https://media3.giphy.com/media/XEDIHHp3i8bVoEdxd7/200.webp" width="45" alt="TS">
@@ -71,19 +70,20 @@
 <h3 align="center">📊 GitHub Observatory</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalgupta2k&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalgupta2k&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishalgupta2k&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalgupta2k&theme=radical&show_icons=true&hide_border=true&layout=compact&bg_color=0D1117" width="48%" />
+  <!-- Replaced unstable top-langs with summary-cards (much more reliable) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishalgupta2k&theme=radical" width="48%" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vishalgupta2k&theme=radical" width="48%" height="180" />
 </div>
 
 <h3 align="center">🏆 GitHub Achievements</h3>
 
 <p align="center">
-  <!-- Robust Trophy URL - Removed complex parameters for higher stability -->
-  <img src="https://github-profile-trophy.vercel.app/?username=vishalgupta2k&theme=tokyonight&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <!-- Using a different, more stable fork for trophies -->
+  <img src="https://github-trophies.vercel.app/?username=vishalgupta2k&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -93,18 +93,18 @@
 <p align="center">
   <a href="https://linkedin.com/in/ervishalg" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:guptavishal2k@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://portfolio.vishalgupta.xyz" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=safari&logoColor=00FFFF" /></a>
+  <a href="https://portfolio.vishalgupta.xyz" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=safari&logoColor=00FFFF" alt="Portfolio" /></a>
 </p>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
 <div align="center">
   <br />
   <img src="https://raw.githubusercontent.com/vishalgupta2k/vishalgupta2k/output/github-contribution-grid-snake.svg" alt="Snake animation" />
   <br />
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>Let's build something extraordinary together! 🚀</b></em>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I'm always looking for interesting projects to collaborate on! Let's build something epic together.🚀🚀🚀</b></em>
 </div>
 
 <p align="center">

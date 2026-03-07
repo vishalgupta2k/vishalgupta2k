@@ -24,7 +24,8 @@
 <h3 align="center">👨‍💻 About Me</h3>
 
 <p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/Assets/Developer.gif?raw=true" alt="Coding GIF" width="380" />
+  <!-- Ultra-Stable High-Bandwidth Giphy Link -->
+  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Dynamic Coding Animation" width="400" />
 </p>
 
 <p align="center">
@@ -59,35 +60,30 @@
   <img src="https://media3.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="45" alt="Python">
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,redux,nextjs,tailwind,mui,js,ts&theme=dark" alt="Frontend" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,py,django,java,mysql,mongodb,elasticsearch&theme=dark" alt="Backend" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,linux,vitest,postman&theme=dark" alt="Tools & Cloud" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,redux,nextjs,tailwind,mui,js,ts&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,py,django,java,mysql,mongodb,elasticsearch&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,linux,vitest,postman&theme=dark" />
+</div>
 
 ---
 
 <h3 align="center">📊 GitHub Observatory</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalgupta2k&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalgupta2k&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
 
 <div align="center">
-  <!-- Use more stable summary cards instead of readme-stats -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishalgupta2k&theme=radical" width="45%" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalgupta2k&theme=radical&show_icons=true&hide_border=true&layout=compact" width="45%" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vishalgupta2k&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalgupta2k&theme=radical&show_icons=true&hide_border=true&layout=compact&bg_color=0D1117" width="48%" />
 </div>
 
 <h3 align="center">🏆 GitHub Achievements</h3>
 
 <p align="center">
-  <!-- Optimized Trophies - Using 'radical' theme to match example -->
-  <img src="https://github-profile-trophy.vercel.app/?username=vishalgupta2k&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+  <!-- Robust Trophy URL - Removed complex parameters for higher stability -->
+  <img src="https://github-profile-trophy.vercel.app/?username=vishalgupta2k&theme=tokyonight&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -101,14 +97,14 @@
 </p>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
 <div align="center">
   <br />
   <img src="https://raw.githubusercontent.com/vishalgupta2k/vishalgupta2k/output/github-contribution-grid-snake.svg" alt="Snake animation" />
   <br />
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I'm always looking for interesting projects to collaborate on! Let's build something epic together.</b></em>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>Let's build something extraordinary together! 🚀</b></em>
 </div>
 
 <p align="center">

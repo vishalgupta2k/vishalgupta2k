@@ -1,6 +1,6 @@
 
 <div align="center">
-  <!-- Modern Header with Typing Effect -->
+  <!-- Ultra Modern Waving Header -->
   <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Vishal%20Gupta&fontSize=70&animation=fadeIn&fontAlignY=38" alt="Header" />
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A9CAFF&center=true&vCenter=true&width=435&lines=Software+Engineer+%40+Epiq;Full+Stack+Developer;AI+%2F+ML+Enthusiast;Performance+Optimization+Expert" alt="Typing SVG" />
@@ -11,79 +11,89 @@
     <a href="https://portfolio.vishalgupta.xyz"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   </p>
 
-  <!-- Visitor Counter -->
   <img src="https://komarev.com/ghpvc/?username=vishalgupta2k&label=Profile%20views&color=0e75b6&style=flat-square" alt="Views" />
 </div>
 
 ---
 
-### 🚀 Professional Summary
-I am a results-driven **Software Engineer** at **Epiq Systems** with **2+ years** of experience building high-performance web applications and AI-driven solutions.
+### 💫 About Me
+I am a results-driven **Software Engineer** specializing in high-performance web systems and AI integration.
 
-- 🛠️ **Current Focus:** Architecting and building **high-impact AI MVPs** for enterprise document review workflows.
-- 🚀 **Impact:** Played a pivotal role in large-scale **React migrations** and legacy system modernizations.
-- ⚡ **Performance:** Reduced critical API response times by **99% (from 9s to 90ms)** thru targeted database optimizations.
-- 🏆 **Achievement:** Awarded the **Q2 Excellence Award** for technical innovation in AI-powered accessibility.
+- 🛠️ **Current Focus:** Deep-diving into **System Design** and building **GenAI MVPs**.
+- 🚀 **Impact:** Played a pivotal role in high-stakes **React migrations** at **Epiq Systems**.
+- ⚡ **Performance:** Reduced critical API response times by **99% (from 9s to 90ms)**!
+- 🏆 **Recognition:** **Q2 Excellence Award** winner for technical innovation.
+
+---
+
+### 🌟 Project Spotlight
+<div align="center">
+  <!-- High-impact project pins with customized gradients for that "Wow" look -->
+  <a href="https://github.com/vishalgupta2k/portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vishalgupta2k&repo=portfolio&theme=tokyonight&bg_color=30,0d1117,1a1b27&title_color=7c4dff&hide_border=true" />
+  </a>
+  <a href="https://github.com/vishalgupta2k/typezy">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vishalgupta2k&repo=typezy&theme=tokyonight&bg_color=30,0d1117,16161e&title_color=00d2ff&hide_border=true" />
+  </a>
+</div>
 
 ---
 
 ### 🛠️ Technical Arsenal
 <div align="center">
-  <!-- High Quality Skill Icons - Ultra Modern & Reliable -->
-  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,tailwind,mui,html,css" alt="Frontend Skills" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,tailwind,mui,html,css" alt="Frontend" />
   <br />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python,django,java" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python,django,java" alt="Backend" />
   <br />
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,elasticsearch,aws,gcp,docker,git,github,vitest,linux" alt="Tools & Cloud" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,elasticsearch,aws,gcp,docker,git" alt="Tools" />
 </div>
 
 ---
 
-### 📉 GitHub Insights
+### 📈 GitHub Data
 <div align="center">
-  <!-- Use reliable Stats with 'tokyonight' theme -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vishalgupta2k&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalgupta2k&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <!-- Use custom gradients for a much MORE modern look -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vishalgupta2k&show_icons=true&theme=tokyonight&hide_border=true&bg_color=30,0d1117,1a1b27" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalgupta2k&layout=compact&theme=tokyonight&hide_border=true&bg_color=30,0d1117,16161e" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalgupta2k&theme=tokyonight&hide_border=true&background=0D1117" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalgupta2k&theme=tokyonight&hide_border=true&background=0d1117" />
 </p>
 
 ---
 
-### 🏆 Achievement Showcase
+### 🏆 Achievements
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vishalgupta2k&theme=tokyonight&no-bg=true&margin-w=4&rank=SSS,SS,S,AAA" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=vishalgupta2k&theme=tokyonight&no-bg=true&margin-w=4" alt="Trophies" />
   </a>
 </p>
 
 ---
 
-### 🐍 GitHub Journey
-<!-- This snake will animate once you set up the Action in your vishalgupta2k repo -->
+### 🎧 Current Flow
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vishalgupta2k/vishalgupta2k/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://novatid.es/spotify-github-readme/api/now-playing?user=YOUR_SPOTIFY_ID&theme=tokyonight" />
 </p>
 
 ---
 
-### 🤖 Daily Dev Mood
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&bg_color=0D1117&hide_border=true" />
-</div>
-
+### 🤖 Daily Dev Joke
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&bg_color=0d1117&hide_border=true" />
 </p>
 
 ---
 
-### 🛠️ Handoff & Setup
-1. **GitHub Stats**: If stats appear broken, try refreshing. If they stay broken, GitHub might be rate-limiting the public server. The best fix is to deploy your own [github-readme-stats instance](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance-for-free).
-2. **Snake Animation:** Add the `.github/workflows/snake.yml` to your `vishalgupta2k` repo to see the snake animate your contributions!
-3. **Icons:** The `skillicons.dev` icons used in the "Arsenal" section are static SVGs and are extremely reliable.
+### 🛑 STOP BROKEN IMAGES (Important)
+If you see broken images, it means GitHub is rate-limiting the public stats server. To fix this permanently:
+1. Go to the [GitHub Readme Stats Repo](https://github.com/anuraghazra/github-readme-stats).
+2. Click **Deploy to Vercel** (it's free and takes 2 minutes).
+3. Replace the `github-readme-stats.vercel.app` part of the URLs above with **your own Vercel URL**.
+4. This will make your images **100% stable** and they will NEVER break again.
+
+---
 
 <p align="center">
   Made with ❤️ by <a href="https://github.com/vishalgupta2k">Vishal Gupta</a>

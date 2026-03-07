@@ -1,21 +1,21 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,00FFFF,7c4dff&height=220&section=header&text=Vishal%20Gupta&fontSize=80&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,0b0b1a,7C3AED,00FFFF,FFFFFF&height=300&section=header&text=Vishal%20Gupta&fontSize=90&animation=shimmer&fontAlignY=45&desc=Software%20Engineer%20%7C%20Full%20Stack%20Architect&descSize=24&descAlignY=65&stroke=FFFFFF&strokeWidth=1" alt="Glassmorphism Premium Header" />
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Digital+Garden!+🌱;I%27m+a+Full+Stack+Architect+🚀;Performance+Optimization+Expert+⚡;GenAI+MVP+Builder+🤖;Software+Engineer+%40+Epiq&font=Fira+Code&center=true&width=500&height=50&duration=4000&pause=1000&color=00FFFF&size=24">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Digital+Garden!+🌱;I%27m+a+Full+Stack+Architect+🚀;Performance+Optimization+Expert+⚡;GenAI+MVP+Builder+🤖;Software+Engineer+%40+Epiq&font=Montserrat&center=true&width=500&height=50&duration=4000&pause=1000&color=7C3AED&size=24">
 </div>
 
 <p align="center">
   <a href="https://github.com/vishalgupta2k">
-    <img src="https://komarev.com/ghpvc/?username=vishalgupta2k&label=Profile%20views&color=00FFFF&style=for-the-badge" alt="profile views" />
+    <img src="https://komarev.com/ghpvc/?username=vishalgupta2k&label=GLOBAL%20REACH&color=7C3AED&style=for-the-badge" alt="profile views" />
   </a>
   <a href="https://linkedin.com/in/ervishalg">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://portfolio.vishalgupta.xyz">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=00FFFF" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=7C3AED" alt="Portfolio" />
   </a>
 </p>
 
@@ -49,41 +49,39 @@
 
 ---
 
-<h3 align="center">🛠️ Tech Arsenal</h3>
-
-<p align="center">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="45" alt="JS">
-  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="45" alt="React">
-  <img src="https://media3.giphy.com/media/XEDIHHp3i8bVoEdxd7/200.webp" width="45" alt="TS">
-  <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/200.webp" width="45" alt="Node">
-  <img src="https://media3.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="45" alt="Python">
-</p>
+<h3 align="center">🛠️ 3D Tech Arsenal</h3>
 
 <div align="center">
+  <!-- 3D Isometric Skill Icons -->
   <img src="https://skillicons.dev/icons?i=react,redux,nextjs,tailwind,mui,js,ts&theme=dark" /><br>
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,py,django,java,mysql,mongodb,elasticsearch&theme=dark" /><br>
   <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,linux,vitest,postman&theme=dark" />
 </div>
+
+<p align="center">
+  <!-- 3D Isometric Contribution Graph (Simulated via high-quality SVG/Link) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishalgupta2k&theme=react-dark&area=true&hide_border=true&bg_color=0b0b1a&color=7C3AED&line=00FFFF" width="100%" />
+</p>
 
 ---
 
 <h3 align="center">📊 GitHub Observatory</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalgupta2k&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalgupta2k&theme=radical&hide_border=true&background=0b0b1a&stroke=7C3AED&ring=00FFFF&fire=7C3AED&currStreakNum=ffffff" alt="GitHub Streak" />
 </p>
 
 <div align="center">
-  <!-- Replaced unstable top-langs with summary-cards (much more reliable) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishalgupta2k&theme=radical" width="48%" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vishalgupta2k&theme=radical" width="48%" height="180" />
+  <!-- Branded Summary Cards -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishalgupta2k&theme=radical&bg_color=0b0b1a&title_color=7C3AED&text_color=ffffff&icon_color=00FFFF" width="48%" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vishalgupta2k&theme=radical&bg_color=0b0b1a&title_color=7C3AED&text_color=ffffff&icon_color=00FFFF" width="48%" height="180" />
 </div>
 
 <h3 align="center">🏆 GitHub Achievements</h3>
 
 <p align="center">
-  <!-- Using a different, more stable fork for trophies -->
-  <img src="https://github-trophies.vercel.app/?username=vishalgupta2k&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+  <!-- Branded Trophies -->
+  <img src="https://github-trophies.vercel.app/?username=vishalgupta2k&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7&title_color=7C3AED&icon_color=00FFFF&text_color=ffffff" alt="GitHub Trophies" />
 </p>
 
 ---

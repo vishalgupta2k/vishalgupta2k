@@ -1,10 +1,10 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,0b0b1a,7C3AED,00FFFF,FFFFFF&height=300&section=header&text=Vishal%20Gupta&fontSize=90&animation=shimmer&fontAlignY=45&desc=Software%20Engineer%20%7C%20Full%20Stack%20Architect&descSize=24&descAlignY=65&stroke=FFFFFF&strokeWidth=1" alt="Glassmorphism Premium Header" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,0b0b1a,7C3AED,00FFFF,FFFFFF&height=300&section=header&text=Vishal%20Gupta&fontSize=90&animation=shimmer&fontAlignY=45&desc=Software%20Engineer%20%40%20Epiq&descSize=24&descAlignY=65&stroke=FFFFFF&strokeWidth=1" alt="Glassmorphism Premium Header" />
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Digital+Garden!+🌱;I%27m+a+Full+Stack+Architect+🚀;Performance+Optimization+Expert+⚡;GenAI+MVP+Builder+🤖;Software+Engineer+%40+Epiq&font=Montserrat&center=true&width=500&height=50&duration=4000&pause=1000&color=7C3AED&size=24">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Digital+Garden!+🌱;I%27m+a+Software+Engineer+%40+Epiq;Building+GenAI+MVPs+🤖&font=Montserrat&center=true&width=500&height=50&duration=4000&pause=1000&color=7C3AED&size=24">
 </div>
 
 <p align="center">
@@ -39,9 +39,9 @@
         🔥 <b>SDE II Candidate:</b> Shipping mission-critical document review engines.<br>
         ⚡ <b>Performance:</b> Slashed API response times by <b>99% (9s → 90ms)</b>.<br>
         🏆 <b>Awarded:</b> **Q2 Excellence Award** for engineering innovation.<br>
-        🤖 <b>AI/ML:</b> Architecting high-impact **GenAI MVPs** from the ground up.<br>
+        🤖 <b>AI/ML:</b> Developing **GenAI MVPs** from the ground up; worked with AI teams.<br>
         💬 <b>Ask me:</b> React, FastAPI, Node.js, Elasticsearch, and System Design.<br>
-        🎯 <b>Fun Fact:</b> I architect the whole system in my head before coding!
+        🎯 <b>Fun Fact:</b> I design the whole system in my head before coding!
       </td>
     </tr>
   </table>
